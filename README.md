@@ -49,11 +49,11 @@ As you may have already realized, my name is DizaDesire. I think we can end here
 
 ---
 
-### 🏆 GitHub Trophies & Achievements
+### 🏆 GitHub Trophies Hall of Fame
 
 <p align="center">
-  <!-- Этот виджет автоматически соберет твои реальные кубки по коммитам, звездам и репозиториям -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DizaDesire&theme=onedark&column=7&margin-w=15" alt="DizaDesire Trophies" />
+  <!-- Максимальная прокачка трофеев: включены все типы, разбиты по 6 в ряд для массивности -->
+  <img src="https://github-profile-trophy.vercel.app/?username=DizaDesire&theme=onedark&column=6&margin-w=20&margin-h=20&no-bg=false&no-frame=false" alt="DizaDesire Mega Trophies" />
 </p>
 
 #### 🏅 My Personal Milestones:
