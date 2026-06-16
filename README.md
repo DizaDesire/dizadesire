@@ -49,6 +49,21 @@ As you may have already realized, my name is DizaDesire. I think we can end here
 
 ---
 
+### 🏆 GitHub Trophies & Achievements
+
+<p align="center">
+  <!-- Этот виджет автоматически соберет твои реальные кубки по коммитам, звездам и репозиториям -->
+  <img src="https://github-profile-trophy.vercel.app/?username=DizaDesire&theme=onedark&column=7&margin-w=15" alt="DizaDesire Trophies" />
+</p>
+
+#### 🏅 My Personal Milestones:
+* 🛠️ **[Multi-Tool]** — Способен писать код, крутить сервера, ковырять реверс и монтировать видео в соло.
+* ⚡ **[Genius Psycho]** — Спокойно дебажит код на C++ в 3 часа ночи без кофе.
+* 🎯 **[Modding Master]** — Знает, как заставить работать скрипты в FiveM и RageMP с первой попытки.
+* 📦 **[Code Hoarder]** — Репозиториев много не бывает, даже если половина из них — секретные тесты.
+
+---
+
 ### ⚙️ Git Status
 
 - 🔭 I’m currently working on myself 
@@ -59,11 +74,7 @@ As you may have already realized, my name is DizaDesire. I think we can end here
 
 ---
 
-### 📊 GitHub Analytics (Dark Neon Style)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DizaDesire&theme=onedark" alt="DizaDesire Trophies" />
-</p>
+### 📊 GitHub Analytics
 
 <table align="center">
   <tr>
