@@ -5,10 +5,10 @@
   <a href="https://github.com/DizaDesire" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35">
   </a>
-  <a href="https://youtube.com" target="_blank">
+  <a href="https://youtube.com/channel/UCiwQlXRf-NEDtab6snfPCkg/" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="35">
   </a>
-  <a href="https://t.me" target="_blank">
+  <a href="https://t.me/dizades" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="35">
   </a>
 </p>
