@@ -1,4 +1,4 @@
-### Hi there 👋, my name is DizaDesire
+### Hi there 👋, my name is Diza Desire
 #### I am a versatile tool in the world of programming, design and hacking
 
 <p align="left">
@@ -52,7 +52,6 @@ As you may have already realized, my name is DizaDesire. I think we can end here
 ### 🏆 GitHub Trophies Hall of Fame
 
 <p align="center">
-  <!-- Максимальная прокачка трофеев: включены все типы, разбиты по 6 в ряд для массивности -->
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=DizaDesire&theme=onedark&column=6&margin-w=20&margin-h=20&no-bg=false&no-frame=false" alt="DizaDesire Mega Trophies" />
 </p>
 
